@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7954
     wikipedia: http://en.wikipedia.org/wiki/John_J._McGuire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30972#Take-the-Reason-Prisoner
 gutenberg_issued: '2010-01-15'
 gutenberg_type: Text
 identifiers:
